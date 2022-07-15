@@ -62,6 +62,17 @@ nothing to commit, working tree clean
 
 =============================================================================================
 
-
+modifiquei o arquivo novamente
 =============================================================================================
+ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
 
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+===================================================================================
+git diff   <---- mostra as diferenças
