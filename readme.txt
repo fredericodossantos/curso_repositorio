@@ -80,4 +80,14 @@ git diff   <---- mostra as diferenças
 
 dir -h pra mostrar arquivos ocultos
 
+========================================================================
+conectei o repositorio local com o remoto atravez da chave ssh
 
+…or push an existing repository from the command line
+git remote add origin https://github.com/fredericodossantos/curso_repositorio.git
+git branch -M main
+git push -u origin main
+
+
+
+agora vou subir isso pro github
