@@ -76,3 +76,8 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 ===================================================================================
 git diff   <---- mostra as diferenças
+
+
+dir -h pra mostrar arquivos ocultos
+
+
